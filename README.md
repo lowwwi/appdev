@@ -1,5 +1,5 @@
 # appdev
-# H1 my first repository
+# my first repository
 *members*
 - Adrian Padua
 - Marlvin Mangubos
